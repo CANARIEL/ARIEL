@@ -1,1 +1,28 @@
-prueba1
+
+>>>>  la luna es cuadrad the round  is world  the life at crazy  people  beat :)
+
+ la vida es realmente  hermosa 
+
+  the  life really  wounderfull
+
+
+Hey futuro yo estamos practicando git. Pero que tal programamos aqui un javita
+
+
+
+
+Public class LIU{
+Public static void main(String[]) args{
+
+
+
+System.out.println("hey como estas ")
+
+
+
+
+
+
+}
+}
+
