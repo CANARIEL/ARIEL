@@ -1,10 +1,4 @@
- .titulo{ 
-
-    color:rgb(203, 255, 196) 
- } 
-
-.body{
-    color:blueviolet
-   
-
+.body {
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
