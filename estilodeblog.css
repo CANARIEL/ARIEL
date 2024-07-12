@@ -1,4 +1,9 @@
 .body {
-    color: brown;
+    color: rgb(73, 165, 42);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titulo{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
