@@ -6,5 +6,6 @@
 
 .body{
     color:blueviolet
-    font-family: "Ariel"
+    font-family: "Arial"; /* Corrige el nombre de la fuente */
+
 }
