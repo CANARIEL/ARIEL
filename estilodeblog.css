@@ -1,9 +1,10 @@
-/* .titulo{ */
+ .titulo{ 
 
-    /* color:rgb(203, 255, 196) */
+    color:rgb(203, 255, 196) 
     
-/* } */
+ } 
 
-.par{
+.body{
     color:blueviolet
+    font-family: "Ariel"
 }
