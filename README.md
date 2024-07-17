@@ -1,4 +1,5 @@
-# Practicas de un enginner  homework   # Practice of an enginner, homework, test.
+# Practicas de un enginner  homework  
+ ## Practice of an enginner, homework, test.
 
          ##Si estas leyendo esto muchas gracias por llegar hasta aqui recuerda que tengo mas repositorios
          > Estas son simplementes pruebas que no te llevaran a ningun lado mi estimado estudiante pero quien quita te ayude a encontrarte como a mi hoy es 2024 y tengo 19 años              la flor de la juventud  espero que te vaya bien tanto a mi comoa  ti.
